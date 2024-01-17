@@ -1,0 +1,13 @@
+.card{
+    background: lightblue;
+    border-bottom:2px solid purple;
+    display: flex;
+    justify-content: space-around;
+    width:400px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 1px 0px 1px purple;
+}
+.photo{
+    padding: 10px;
+}
